@@ -16,4 +16,6 @@ Following is the performance of different methods
          Label correcting                      281                        -                        0
       Multistep Lookahead                      281                        -                       13
  Red. st. Mult. Lookahead                      281                        -                        8
-               Q learning                      333                        -                       26
+               Q learning                      333                        -                       2
+-------------------------------------------------------------------------------------
+
