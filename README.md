@@ -16,4 +16,5 @@ Following is the performance of different methods
       Multistep Lookahead          |            281         |               -        |               13
 Red. st. Mult. Lookahead           |            281         |               -        |                8
                Q learning          |            333         |               -        |                2
-
+               
+------------------------------------------------------------------------------------------------------------------
