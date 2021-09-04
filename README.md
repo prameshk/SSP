@@ -15,7 +15,7 @@ Following is the performance of different methods
           Red. State GSVI                      281                        5                       20
          Label correcting                      281                        -                        0
       Multistep Lookahead                      281                        -                       13
- Red. st. Mult. Lookahead                      281                        -                        8
+Red. st. Mult. Lookahead                      281                        -                        8
                Q learning                      333                        -                       2
 -------------------------------------------------------------------------------------
 
