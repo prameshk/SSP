@@ -1,2 +1,1 @@
-# SSP
-
+# Stochastic shortest path
